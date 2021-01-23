@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{9F994346-21EC-41F1-9A85-9545314CD7E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{3484E134-E5CD-4A3D-AE2C-B9849712B61E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{33A12D98-D707-4343-B885-AAB553AE9D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F994346-21EC-41F1-9A85-9545314CD7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F994346-21EC-41F1-9A85-9545314CD7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F994346-21EC-41F1-9A85-9545314CD7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F994346-21EC-41F1-9A85-9545314CD7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3484E134-E5CD-4A3D-AE2C-B9849712B61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3484E134-E5CD-4A3D-AE2C-B9849712B61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3484E134-E5CD-4A3D-AE2C-B9849712B61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3484E134-E5CD-4A3D-AE2C-B9849712B61E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A12D98-D707-4343-B885-AAB553AE9D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A12D98-D707-4343-B885-AAB553AE9D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A12D98-D707-4343-B885-AAB553AE9D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A12D98-D707-4343-B885-AAB553AE9D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6AF4273-B687-4627-94DB-4725BE2B8EB0}
+	EndGlobalSection
+EndGlobal
