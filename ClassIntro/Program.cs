@@ -8,11 +8,9 @@ namespace ClassIntro
         {
             Course course1 = new Course();
             course1.CourseName = "K";
-            course1.CourseName = "K";
             course1.watchRatio = 32;
 
             Course course2 = new Course();
-            course2.CourseName = "K";
             course2.CourseName = "K";
             course2.watchRatio = 32;
 
