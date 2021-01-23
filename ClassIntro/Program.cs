@@ -7,13 +7,13 @@ namespace ClassIntro
         static void Main(string[] args)
         {
             Course course1 = new Course();
-            course1.CourseName = "Kobra";
-            course1.CourseName = "Kobra";
+            course1.CourseName = "K";
+            course1.CourseName = "K";
             course1.watchRatio = 32;
 
             Course course2 = new Course();
-            course2.CourseName = "Kobra";
-            course2.CourseName = "Kobra";
+            course2.CourseName = "K";
+            course2.CourseName = "K";
             course2.watchRatio = 32;
 
 
